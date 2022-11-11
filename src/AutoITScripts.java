@@ -36,7 +36,8 @@ public class AutoITScripts {
 			File f = new File(DownloadPath + "/ilovepdf_pages-to-jpg.zip");
 			if(f.exists())
 			{
-				System.out.println("FileFound");
+				System.out.println("File is found");
+				
 			}
 
 	}
